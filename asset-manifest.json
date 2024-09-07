@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Parent-to-Child-pass/static/css/main.e6c13ad2.css",
+    "main.js": "/Parent-to-Child-pass/static/js/main.a3749c87.js",
+    "static/js/453.71a10eb3.chunk.js": "/Parent-to-Child-pass/static/js/453.71a10eb3.chunk.js",
+    "index.html": "/Parent-to-Child-pass/index.html",
+    "main.e6c13ad2.css.map": "/Parent-to-Child-pass/static/css/main.e6c13ad2.css.map",
+    "main.a3749c87.js.map": "/Parent-to-Child-pass/static/js/main.a3749c87.js.map",
+    "453.71a10eb3.chunk.js.map": "/Parent-to-Child-pass/static/js/453.71a10eb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a3749c87.js"
+  ]
+}
